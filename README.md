@@ -1,5 +1,7 @@
 # User-friendly extensions to MeSH
 
+[![DOI: 10.5281/zenodo.45586](https://zenodo.org/badge/doi/10.5281/zenodo.45586.svg)](https://doi.org/10.5281/zenodo.45586 "Zenodo deposition of v1.0")
+
 The [Medical Subject Headings](https://www.nlm.nih.gov/mesh/) (MeSH) is a controled vocabulary produced by the NLM for cataloging biomedical information. The resource is structured as an ontology and is used for PubMed/MEDLINE annotation. Here we provide user-friendly datasets derived from MeSH. Currently, two [record types](https://www.nlm.nih.gov/mesh/intro_record_types.html "MeSH Record Types") are processed: Descriptors and Supplementary Concept Records.
 
 
