@@ -18,7 +18,7 @@ The `data` directory contains the created datasets:
 + [`ontology.gexf.gz`](data/ontology.gexf.gz) — a [GEXF](https://gephi.org/gexf/format/) representation of the descriptor ontology that is compatable with [`newtorkx`](https://networkx.github.io/).
 + [`symptoms.tsv`](data/symptoms.tsv) — symptom Descriptors (the 438 descendants of [`D012816`](http://www.ncbi.nlm.nih.gov/mesh/D012816 "MeSH Descriptor: Signs and Symptoms")
 + [`tree-numbers.tsv`](data/tree-numbers.tsv) — table of tree numbers for each Descriptor. A tree number represents a path to the the root. This file is handy for mapping to external resources which occasionally identify MeSH Descriptors by their tree numbers (a bad but prevalent practice).
-+ [`supplemntal-records.tsv`](data/supplemntal-records.tsv) — table of SCR terms.
++ [`supplemental-records.tsv`](data/supplemental-records.tsv) — table of SCR terms.
 + [`supplemental-terms.tsv`](data/supplemental-terms.tsv) — table of SCR names.
 
 ## License
